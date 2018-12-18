@@ -19,7 +19,8 @@
 ```
 pip install -r requirements.txt
 ```
-### Create a database link edit config in dtiaozao/settings.py and run following command
+### Create a database and edit config in dtiaozao/settings.py and run following command
+### At here, I have chosen MySQL as my database
 ```
 python manage.py makemigrations
 python manage.py migrate
