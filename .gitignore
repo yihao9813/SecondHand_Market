@@ -2,7 +2,8 @@
 venv/
 .vscode/
 __pycache__/
-
+.gitignore
 
 #Files
 *.pyc
+
