@@ -12,7 +12,7 @@
     * View purchase & sales record
 
 # Installing
-## You are recommended develop under virtual environment
+### You are recommended develop under virtual environment
 ### At here, I have chosen virtualenv. For more info, please visit [here](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/).
 
 ### Install packages needed via pip after activating virtualenv
